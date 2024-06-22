@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Chicken Stir Fry",
+      "recipe_image": "https://i.ibb.co/kGMDvBd/salmon-518032-640.jpg",
+      "short_description": "A flavorful and quick stir-fry dish with tender chicken and fresh vegetables.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushrooms"],
+      "preparing_time": "30 ",
+      "calories": "320 "
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Mediterranean Quinoa Salad",
+      "recipe_image": "https://i.ibb.co/Lv8tBpC/plate-2802332-640.jpg",
+      "short_description": "A refreshing salad packed with quinoa, cherry tomatoes, cucumber, and feta cheese.",
+      "ingredients": ["250 g quinoa", "200 g cherry tomatoes", "150 g cucumber", "100 g feta cheese"],
+      "preparing_time": "20 ",
+      "calories": "220 "
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Creamy Mushroom Risotto",
+      "recipe_image": "https://i.ibb.co/JR1My3t/dessert-5712284-640.jpg",
+      "short_description": "Indulge in a creamy and comforting risotto infused with savory mushrooms and Parmesan cheese.",
+      "ingredients": ["300 g Arborio rice", "400 g mushrooms", "1 liter vegetable broth", "100 g Parmesan cheese"],
+      "preparing_time": "40 ",
+      "calories": "380 "
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Zesty Lemon Chicken",
+      "recipe_image": "https://i.ibb.co/5kPgPNT/christina-rumpf-g-UU4-MF87-Ipw-unsplash.jpg",
+      "short_description": "Brighten up your meal with tender chicken breasts marinated in tangy lemon and herbs.",
+      "ingredients": ["500 g chicken breasts", "2 lemons", "50 g fresh parsley", "50 ml olive oil"],
+      "preparing_time": "25 ",
+      "calories": "290 "
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Fresh Summer Fruit Salad",
+      "recipe_image": "https://i.ibb.co/5k77kLM/nathan-dumlao-Ijov-Y65-WQi-E-unsplash.jpg",
+      "short_description": "Celebrate summer with a colorful fruit salad bursting with freshness and sweetness.",
+      "ingredients": ["300 g watermelon", "200 g strawberries", "150 g blueberries", "100 g grapes"],
+      "preparing_time": "15 ",
+      "calories": "150 "
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Vegetable Pad Thai",
+      "recipe_image": "https://i.ibb.co/hKCMWxg/emma-houghton-zxw-Ug-O6-U47-A-unsplash.jpg",
+      "short_description": "Enjoy a classic Thai dish loaded with stir-fried vegetables, tofu, and rice noodles in a tangy sauce.",
+      "ingredients": ["300 g rice noodles", "200 g tofu", "150 g bean sprouts", "100 g peanuts"],
+      "preparing_time": "35 ",
+      "calories": "280 "
+    }
+  ]
+  
